@@ -1,0 +1,14 @@
+{
+  "channels": [
+    "temperature"
+  ],
+  "noise_stddev": {
+    "temperature": 1
+  },
+  "penalties": [
+    1,
+    100
+  ],
+  "min_segment_grid": 2,
+  "minimum_observed_per_channel": 2
+}

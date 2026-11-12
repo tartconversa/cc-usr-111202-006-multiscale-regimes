@@ -1,0 +1,26 @@
+{
+  "channels": [
+    "temperature",
+    "pressure"
+  ],
+  "noise_stddev": {
+    "temperature": 1,
+    "pressure": 2
+  },
+  "min_segment_grid": 2,
+  "minimum_observed_per_channel": 2,
+  "penalties": [
+    1,
+    10,
+    100,
+    1000
+  ],
+  "block_length": 2,
+  "boundary_match_tolerance": 1,
+  "bootstrap_repeats": 200,
+  "seed": 1120206,
+  "tie_break": [
+    "fewer_boundaries",
+    "lexicographic_boundary_list"
+  ]
+}

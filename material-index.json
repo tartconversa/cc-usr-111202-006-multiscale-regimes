@@ -1,0 +1,22 @@
+[
+  {
+    "path": "fixtures/missing.csv",
+    "sha256": "fa6021b9d8cda87ea3a7bd0186eae91d8a9af90df0dbc925dfcdcb0cec26252e",
+    "size_bytes": 142
+  },
+  {
+    "path": "fixtures/segmentation.json",
+    "sha256": "a656dcf257e4a947e0bf7b5c180f360fa1bb8e8a3b9cb4306c7c8e39fe0a39ee",
+    "size_bytes": 421
+  },
+  {
+    "path": "fixtures/series.csv",
+    "sha256": "3bd90982d62fe35551c74ba6dff3e08dfcd83570eece29fa57f80a6c19ac45e2",
+    "size_bytes": 83
+  },
+  {
+    "path": "fixtures/single-channel-check.json",
+    "sha256": "df3c9d905df87b44488a9028beac30ae7f41415c40c3b3ee9bf2ca4dd46e485f",
+    "size_bytes": 187
+  }
+]
